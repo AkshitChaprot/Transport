@@ -20,11 +20,11 @@ var start = [75.857727, 22.719568];
 
 // create a function to make a directions request
 function getRoute(end) {
-  // make a directions request using cycling profile
+  // make a directions request using driving profile
   // an arbitrary start will always be the same
   // only the end or destination will change
   var start = [75.857727, 22.719568];
-  var url = 'https://api.mapbox.com/directions/v5/mapbox/cycling/' + start[0] + ',' + start[1] + ';' + end[0] + ',' + end[1] + '?steps=true&geometries=geojson&access_token=' + mapboxgl.accessToken;
+  var url = 'https://api.mapbox.com/directions/v5/mapbox/driving/' + start[0] + ',' + start[1] + ';' + end[0] + ',' + end[1] + '?steps=true&geometries=geojson&access_token=' + mapboxgl.accessToken;
 
   // make an XHR request https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
   var req = new XMLHttpRequest();

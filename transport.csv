@@ -1,0 +1,13 @@
+﻿sr. num,latitude,longitude,name,place,weight,,
+1,22.719568,75.857727,,indore,1000,,"<option value=""Indore"">Indore</option>"
+2,23.259933,77.412613,,bhopal,800,,"      <option value=""Bhopal"">Bhopal</option>"
+3,22.962267,76.050797,,dewas,1200,,"      <option value=""Dewas"">Dewas</option>"
+4,22.601292,75.302467,,dhar,300,,"      <option value=""Dhar"">Dhar</option>"
+5,23.334169,75.037636,,ratlam,1400,,"      <option value=""Ratlam"">Ratlam</option>"
+6,24.076836,75.069298,,mandsaur,200,,"      <option value=""Mandsaur"">Mandsaur</option>"
+7,23.18239,75.77643,,ujjain,700,,"      <option value=""Ujjain"">Ujjain</option>"
+8,24.2834986,74.862409,,neemuch,400,,"      <option value=""Neemuch"">Neemuch</option>"
+9,22.6111,75.6773,,peethampur,2000,,"      <option value=""Pithampur"">Pithampur</option>"
+10,22.1480036,74.5400072,,barwani,600,,"      <option value=""barwani"">Barwani</option>"
+,,,,,,,
+,,,,,,,

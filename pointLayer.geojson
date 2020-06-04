@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "mapschema_901_755.layertable_2442_755",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "city": "default" }, "geometry": { "type": "Point", "coordinates": [ 74.882813, 20.182951 ] } },
+{ "type": "Feature", "properties": { "city": "default" }, "geometry": { "type": "Point", "coordinates": [ 82.089844, 22.636083 ] } },
+{ "type": "Feature", "properties": { "city": "default" }, "geometry": { "type": "Point", "coordinates": [ 73.828125, 24.727456 ] } },
+{ "type": "Feature", "properties": { "city": "default" }, "geometry": { "type": "Point", "coordinates": [ 80.332031, 25.522741 ] } }
+]
+}
